@@ -51,8 +51,13 @@ ol, ul {
   margin-left: 20px;
 }
 
+.game-board {
+  min-width: 800px;
+}
+
 .div-list {
   width:  180px;
+  min-width: 150px;
   padding: 10px;
   border: solid 3px green;
   border-radius: 5px;
